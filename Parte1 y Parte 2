@@ -1,0 +1,24 @@
+//Parte 1
+
+fuction suma (int a+ int b+ int c){
+  return a+b+c
+  
+ } 
+
+suma1= suma (1+2+4)
+
+
+//Parte 2
+
+class coche{
+
+  int puertas;
+  
+  numpuerta(a);
+   return int puertas + a
+}
+
+
+miCoche= coche();
+coche.numpuerta(1);
+
